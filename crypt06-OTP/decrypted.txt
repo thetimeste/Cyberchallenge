@@ -1,0 +1,4 @@
+decrypted using MTP
+https://github.com/CameronLonsdale/MTP?tab=readme-ov-file
+
+flag{M4ny_71m3_P4D_N1gH7m4r3}
